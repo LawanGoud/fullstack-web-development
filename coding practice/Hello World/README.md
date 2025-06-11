@@ -1,4 +1,4 @@
-## 📝 Problem Statement
+## 📝 Hello World
 
 **Task:**
 Write a program that prints **"Hello World"** as output.

@@ -1,4 +1,4 @@
-## 📝 Problem Statement
+## 📝 Three Hashes
 
 **Task:**
 Write a program that prints **three hash symbols (###)** as output.

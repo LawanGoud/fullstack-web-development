@@ -1,6 +1,4 @@
-### Sum of 2495 and 789358
-
-Write a program that prints the sum of two numbers, 2495 and 789358
+### ➕ Sum of 2495 and 789358
 
 **Task:**  
 Write a Python program that prints the sum of the two numbers: `2495` and `789358`.

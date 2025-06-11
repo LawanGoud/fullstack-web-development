@@ -1,8 +1,4 @@
-### Subtract 596 from 193856
-
-Write a program that prints the result when 596 is subtracted from 193856
-
-### Subtract 596 from 193856
+### ➖ Subtract 596 from 193856
 
 **Task:**  
 Write a Python program that prints the result of subtracting `596` from `193856`.

@@ -1,7 +1,5 @@
 ### 🧮 Product of 37, 61, and 391
 
-Write a program that prints the product of three numbers, 37, 61 and 391
-
 **Task:**  
 Write a Python program that prints the **product** (multiplication result) of the three numbers: `37`, `61`, and `391`.
 

@@ -15,9 +15,9 @@ We’ll solve it **step-by-step** and in your **beginner format**, without using
 ✅ Read a **two-digit number** `N`
 ✅ Check if **any** of the following is true:
 
-* The **sum of its digits is 7**
-* **One of the digits is 7**
-* The number is **divisible by 7**
+- The **sum of its digits is 7**
+- **One of the digits is 7**
+- The number is **divisible by 7**
 
 👉 If **any** condition is true → print `"Special Number"`
 👉 Otherwise → print `"Normal Number"`
@@ -26,10 +26,10 @@ We’ll solve it **step-by-step** and in your **beginner format**, without using
 
 ## 🧠 **Concepts Used:**
 
-* `input()` and `int()` for reading numbers
-* Convert number to string to get digits easily
-* Use `int()` to convert each digit back to number
-* `or` operator for checking multiple conditions
+- `input()` and `int()` for reading numbers
+- Convert number to string to get digits easily
+- Use `int()` to convert each digit back to number
+- `or` operator for checking multiple conditions
 
 ---
 
@@ -70,4 +70,3 @@ Special Number
 ```
 
 ---
-

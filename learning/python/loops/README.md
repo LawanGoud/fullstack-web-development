@@ -117,3 +117,67 @@ while counter < 3:
 📌 **Fix**: Always update the loop variable inside the loop.
 
 ---
+
+### Notes on Python Loops and Range
+
+#### For Loop
+
+- The **for loop** iterates over each item in a sequence.
+- **Syntax:**
+  ```python
+  for each_item in sequence:
+      # code block
+  ```
+- A sequence can be:
+
+  - A string (sequence of characters)
+  - A list (sequence of numbers, etc.)
+
+- **Example:**
+  ```python
+  word = "Python"
+  for each_char in word:
+      print(each_char)
+  ```
+  - **Output:**
+    ```
+    P
+    y
+    t
+    h
+    o
+    n
+    ```
+
+#### Range Function
+
+- **range(n)** generates a sequence of integers starting from 0 up to (but not including) n.
+- **Syntax:** `range(n)`
+- **Example:**
+  ```python
+  for number in range(3):
+      print(number)
+  ```
+  - **Output:**
+    ```
+    0
+    1
+    2
+    ```
+
+#### Range with Start and End
+
+- **range(start, end)** generates a sequence from `start` up to (but not including) `end`.
+- **Syntax:** `range(start, end)`
+- **Example:**
+  ```python
+  for number in range(5, 8):
+      print(number)
+  ```
+  - **Output:**
+    ```
+    5
+    6
+    7
+    ```
+- The value given as the end of the range is NOT INCLUDED in the sequence.

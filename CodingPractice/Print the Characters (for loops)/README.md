@@ -23,8 +23,11 @@ for char in s:
     print(char)  # Print each character on a new line
 ```
 
-🧪 **Sample Input:**  
+🧪 **Sample Input:**
+
+```
 python
+```
 
 🧾 **Sample Output:**
 
